@@ -5,7 +5,7 @@
 		<button type="default">这是button</button>
 		<uni-link :href="href" :text="href"></uni-link>
 		<view class="operation">
-					<navigator class="list"  >
+					<navigator class="list"  url="../../pages/location/location">
 						<view class="title">售后服务</view>
 					</navigator>
 					<navigator class="list"  >
